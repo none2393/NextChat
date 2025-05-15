@@ -600,6 +600,7 @@ const alibabaModes = [
   "qwen-omni-turbo",
   "qwen-vl-plus",
   "qwen-vl-max",
+  "qwen3-235b-a22b",
 ];
 
 const tencentModels = [
@@ -659,6 +660,7 @@ const siliconflowModels = [
   "Qwen/Qwen2.5-7B-Instruct",
   "Qwen/Qwen2.5-72B-Instruct",
   "Qwen/QwQ-32B",
+  "Qwen/Qwen3-235B-A22B",
   "deepseek-ai/DeepSeek-R1",
   "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
   "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
