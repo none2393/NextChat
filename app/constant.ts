@@ -523,11 +523,9 @@ const openaiModels = [
 ];
 
 const googleModels = [
-  "gemini-1.0-pro", // Deprecated on 2/15/2025
   "gemini-1.5-pro-latest",
   "gemini-1.5-pro",
   "gemini-1.5-pro-002",
-  "gemini-1.5-pro-exp-0827",
   "gemini-1.5-flash-latest",
   "gemini-1.5-flash-8b-latest",
   "gemini-1.5-flash",
